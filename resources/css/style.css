@@ -1,11 +1,14 @@
 body {
   font-family: Verdana, sans-serif;
-  font-weight: normal;
-  font-size: 50px;
   text-align: center;
   background-color: black;
   color: white;
   }
+
+h1, h2 {
+  font-weight: normal;
+  font-size: 50px;
+}
 
 .cta {
   color: Aquamarine;
