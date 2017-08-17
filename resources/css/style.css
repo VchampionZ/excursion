@@ -17,8 +17,11 @@ h1, h2 {
 
 p {
   font-size: 21px;
-  text-align: right;
   color: gray;
+}
+
+.footer {
+  text-align: right;
 }
 
 video {
